@@ -93,6 +93,8 @@ The system was verified using ModelSim for simulation and hardware implementatio
   <img width="570" height="429" alt="Simulation Results" src="https://github.com/user-attachments/assets/2eb8acac-9af4-4a7f-9dbd-6f7bd9f21a2f" />
   <br>
   <em>Simulation Results</em>
+</div>
+<div align="center"> 
   <img width="520" height="692" alt="ESP32 & FPGA Board" src="https://github.com/user-attachments/assets/4676012c-09dd-4946-97bf-045a7d2c5f91" />
   <br>
   <em>ESP32 & FPGA Board</em>
