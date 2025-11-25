@@ -1,6 +1,6 @@
 <div align="center">
 
-![Project Banner](https://images.unsplash.com/photo-1553406830-ef2513450d76?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
+![Project Banner]([https://images.unsplash.com/photo-1553406830-ef2513450d76?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pleasedontcode.com%2Fblog%2Funderstanding-uart-protocol-in-simple-words&psig=AOvVaw3kdllBmP1kymxF5KxKhIqi&ust=1764146141783000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjS0dfyjJEDFQAAAAAdAAAAABAE))
 
 # FPGA UART Communication System
 ### Implementation & Evaluation on DE2 Board with ESP32 Integration
