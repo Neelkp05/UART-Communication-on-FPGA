@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="108" height="72" alt="image" src="https://github.com/user-attachments/assets/015297a0-0953-4486-8e2f-b256d5e83d0c" />
+  <img width="324" height="216" alt="image" src="https://github.com/user-attachments/assets/015297a0-0953-4486-8e2f-b256d5e83d0c" />
 </div>
 
 # FPGA UART Communication System
