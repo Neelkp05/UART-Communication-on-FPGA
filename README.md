@@ -59,12 +59,14 @@ The project is divided into four main Verilog modules and one ESP32 firmware scr
 3.  **LCD Display Controller (`lcd_display.v`):** A driver to display the received data on the DE2 board's LCD screen.
 4.  **Top Module (`de2_top.v`):** Integrates all modules, managing clock distribution and pin assignments.
 
-### 📸 RTL & Block Diagram
+### 📸 RTL
 > *Note: Please upload the Block Diagram from Page 3 and RTL View from Page 5 of the report here.*
 
 <div align="center"> 
-  <img src="https://via.placeholder.com/800x400?text=Insert+Your+RTL+Diagram+Here" alt="RTL View" />
+ <img width="1600" height="441" alt="RTL VIEW" src="https://github.com/user-attachments/assets/dc827837-95d3-46bf-a759-e48c329ea6dc" />
+  
 </div>
+
 
 ---
 
@@ -86,8 +88,12 @@ The project is divided into four main Verilog modules and one ESP32 firmware scr
 
 The system was verified using ModelSim for simulation and hardware implementation on the DE2 board.
 
-* **Transmission:** Data entered via the Serial Monitor on the ESP32 was successfully decoded by the FPGA and displayed on the LCD.
+* **Transmission:** Data entered via the Serial Monitor on the ESP32 was successfully decoded by the FPGA and displayed on the Laptop screen.
 * **Reception:** Data set via FPGA switches was transmitted back to the ESP32 and printed on the Serial Monitor.
+<div align="center"> 
+  <img width="1430" height="1073" alt="Simulation Results" src="https://github.com/user-attachments/assets/2eb8acac-9af4-4a7f-9dbd-6f7bd9f21a2f" />
+  <img width="1299" height="1732" alt="ESP32 & FPGA Board" src="https://github.com/user-attachments/assets/4676012c-09dd-4946-97bf-045a7d2c5f91" />
+</div>
 
 ### Code Snippet (UART Receiver Logic)
 ```verilog
