@@ -1,7 +1,6 @@
 <div align="center">
-
-![Project Banner](<img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/015297a0-0953-4486-8e2f-b256d5e83d0c" />
-)
+  <img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/015297a0-0953-4486-8e2f-b256d5e83d0c" />
+</div>
 
 # FPGA UART Communication System
 ### Implementation & Evaluation on DE2 Board with ESP32 Integration
